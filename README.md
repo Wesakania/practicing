@@ -1,0 +1,2 @@
+# practicing
+Reviewing JavaScript basics 
